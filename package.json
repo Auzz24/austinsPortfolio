@@ -1,10 +1,13 @@
 {
+  "homepage": "http://auzz24.github.io/austinsPortfolio",
   "name": "austinsportfolio",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "predeploy": "npm run build",
+     "deploy": "gh-pages -d build"
   },
   "repository": {
     "type": "git",
@@ -15,6 +18,5 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Auzz24/austinsPortfolio/issues"
-  },
-  "homepage": "https://github.com/Auzz24/austinsPortfolio#readme"
+  }
 }

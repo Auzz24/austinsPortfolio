@@ -1,16 +1,11 @@
 # Welcome to Austin's Portfolio 
 
-## Table of Contents
-  - [GitHub Username](#github)
-  - [About Us](#about)
-  - [Motivation](#motivation)
-  - [Description](#description)
-  - [Languages](#languages)
-  - [Installation](#installation)
-  - [Usage](#usage)
+## Table of Contents  
   - [Collaborators](#credits)
+  - [About](#about)
+  - [Languages](#languages)
+  - [Usage](#usage)
   - [The Deployed Application](#credits)
-  - [License](#license)
   - [Additional Information](#additional-info)
 
  ## Collaborator

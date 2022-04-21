@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.81e5ef6f.css",
+    "main.js": "/static/js/main.2e6f0fae.js",
+    "static/media/2.png": "/static/media/2.2c57363033b72df670af.png",
+    "static/media/0.png": "/static/media/0.7717aec9ca1ab95bfd1c.png",
+    "static/media/light-bulb-glowing-wallpaper.jpeg": "/static/media/light-bulb-glowing-wallpaper.23cf05a919c65a616f82.jpeg",
+    "static/media/1.png": "/static/media/1.4e7ee3a66f840a57492e.png",
+    "index.html": "/index.html",
+    "main.81e5ef6f.css.map": "/static/css/main.81e5ef6f.css.map",
+    "main.2e6f0fae.js.map": "/static/js/main.2e6f0fae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81e5ef6f.css",
+    "static/js/main.2e6f0fae.js"
+  ]
+}

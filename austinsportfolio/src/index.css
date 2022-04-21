@@ -84,7 +84,7 @@ img {
 }
 
 #aboutMeDiv {
-  background-color: brown;
+  background-image: url(./assets/Background/light-bulb-glowing-wallpaper.jpeg);
   height: 100%;
   background-position: center;
   background-size:  cover;
@@ -127,7 +127,7 @@ img {
 }
 
 #earlyWork{
-  background-color: beige;
+  background-image: url(./assets/Background/light-bulb-glowing-wallpaper.jpeg);
   height: 100%;
   background-position: center;
   background-size:  cover;
@@ -155,7 +155,7 @@ padding-bottom: 50px;
 }
 
 #project{
-  background-color: aqua ;
+  background-image: url(./assets/Background/light-bulb-glowing-wallpaper.jpeg);
   height: 100%;
   background-position: center;
   background-size:  cover;

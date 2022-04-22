@@ -3,6 +3,7 @@ import Covid from '../../assets/Projects/0.png';
 import Book from '../../assets/Projects/1.png';
 import Dr from '../../assets/Projects/2.png';
 import Contact from '../../components/Pages/contact';
+import NavTabs from "../NavTabs";
 
 
 function Projects (){

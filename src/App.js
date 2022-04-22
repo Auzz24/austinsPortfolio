@@ -8,7 +8,8 @@ import Projects from './components/Pages/projects'
 
 const App = () => {
 return(
-    <Router>
+    <section> 
+    <Router basename={process.env.PUBLIC_URL}>
         <div>
             <NavTabs/>
         <Route exact path="/">
@@ -25,6 +26,7 @@ return(
         </Route>
         </div>
     </Router>
+    </section>
 )};
 
 export default App;

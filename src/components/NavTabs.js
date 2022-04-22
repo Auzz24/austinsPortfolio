@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 
 function NavTabs() {
   return (
+    <section>
     <nav class="shift">
     <ul id="nav">
       <li>
@@ -27,14 +28,15 @@ function NavTabs() {
         </Link>
       </li>
       <li>
-        <a
-          href="/contact"
+      <Link
+          to="/contact"
         >
           CONTACT
-        </a>
+        </Link>
       </li>
     </ul>
     </nav>
+    </section>
   );
 }
 

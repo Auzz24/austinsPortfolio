@@ -3,6 +3,7 @@ import Runbuddy from '../../assets/Early-Work/0.png';
 import Random from '../../assets/Early-Work/1.png';
 import Weather from '../../assets/Early-Work/2.png';
 import Contact from '../../components/Pages/contact';
+import NavTabs from '../NavTabs';
 
 function Early() {
     return(

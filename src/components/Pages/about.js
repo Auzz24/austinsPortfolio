@@ -36,7 +36,7 @@ function About() {
             </div>
                        <section id="resume">
             <div>
-                <p id="resumeLink"> Download my Resume:<a href="https://docs.google.com/document/d/1KX_H0D6r0KO8fbV4aDBcq5Q67U-Aan_b/edit?usp=sharing&ouid=108598029225481980968&rtpof=true&sd=true">Here</a></p>
+                <p id="resumeLink"> Download my Resume:<a href="https://docs.google.com/document/d/1RPMMFWWAuMLJ2uevABlFFVKmOMBAIG9m/edit?usp=sharing&ouid=108598029225481980968&rtpof=true&sd=true">Here</a></p>
             </div>
             </section>
             </div> 

@@ -24,5 +24,5 @@
   💻
 
   ## The Deployed Application
-  See deployed link at : 
+  See deployed link at : https://auzz24.github.io/austinsPortfolio/
   

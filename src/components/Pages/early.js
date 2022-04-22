@@ -3,7 +3,7 @@ import Runbuddy from '../../assets/Early-Work/0.png';
 import Random from '../../assets/Early-Work/1.png';
 import Weather from '../../assets/Early-Work/2.png';
 import Contact from '../../components/Pages/contact';
-import NavTabs from '../NavTabs';
+
 
 function Early() {
     return(
@@ -28,7 +28,9 @@ function Early() {
             </a>
             <p>This app was made to generate a random password for a user using only HTML, CSS, and JavaScript</p>
             <h3>Weather HQ</h3>
+            <a href=" https://auzz24.github.io/WeatherHQ/">
             <img src={Weather} style={{width: "15%"}} alt="screenshot of weather forcast website"/>
+            </a>
             <p>This app uses a 3rd party weather api to give the user current weather and a 5 day forcast</p>
             </div>
             </div>

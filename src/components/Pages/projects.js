@@ -3,7 +3,7 @@ import Covid from '../../assets/Projects/0.png';
 import Book from '../../assets/Projects/1.png';
 import Dr from '../../assets/Projects/2.png';
 import Contact from '../../components/Pages/contact';
-import NavTabs from "../NavTabs";
+
 
 
 function Projects (){
@@ -29,8 +29,10 @@ function Projects (){
             </a>
             <p>Our Book Rentals provides students with affordable textbooks, empowering more than a million students to study cheaper. </p>
             <h3>Dr.HQ</h3>
+            <a href="/">
             <img src={Dr} style={{width: "15%"}} alt="screenshot of Dr. HQ website"/>
-            <p>Sorry this app is under contruction</p>
+            </a>
+            <p>Hospital Management App Project! As the name suggests, the app is designed to manage hospital tasks like booking an appointment, etc. The project technologies include Javascript, MySQL, PHP, and Bootstrap. Whereas the application’s web server is built on XAMPP. We believe that healthcare should be about you and your family. We strive to deliver safe, quality care compassionately and with absolute integrity.</p>
           </div>
 </div>
 </section>

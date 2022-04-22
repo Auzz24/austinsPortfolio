@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/austinsPortfolio/static/css/main.5b533910.css",
-    "main.js": "/austinsPortfolio/static/js/main.e38da565.js",
+    "main.js": "/austinsPortfolio/static/js/main.710de381.js",
     "static/media/2.png": "/austinsPortfolio/static/media/2.2c57363033b72df670af.png",
     "static/media/0.png": "/austinsPortfolio/static/media/0.7717aec9ca1ab95bfd1c.png",
     "static/media/light-bulb-glowing-wallpaper.jpeg": "/austinsPortfolio/static/media/light-bulb-glowing-wallpaper.23cf05a919c65a616f82.jpeg",
     "static/media/1.png": "/austinsPortfolio/static/media/1.4e7ee3a66f840a57492e.png",
     "index.html": "/austinsPortfolio/index.html",
     "main.5b533910.css.map": "/austinsPortfolio/static/css/main.5b533910.css.map",
-    "main.e38da565.js.map": "/austinsPortfolio/static/js/main.e38da565.js.map"
+    "main.710de381.js.map": "/austinsPortfolio/static/js/main.710de381.js.map"
   },
   "entrypoints": [
     "static/css/main.5b533910.css",
-    "static/js/main.e38da565.js"
+    "static/js/main.710de381.js"
   ]
 }

@@ -9,7 +9,7 @@ function Early() {
     return(
         <section >
           <section id="earlyWork">
-        <div>
+        <div id="projectDiscript">
           <h2>
             Early Work 
           </h2>

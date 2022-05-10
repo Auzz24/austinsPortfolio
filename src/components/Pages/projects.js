@@ -10,7 +10,7 @@ function Projects (){
   return (
     <section>
       <section id="project">
-      <div>
+      <div id="projectDiscript">
         <h2>
           Projects
         </h2>

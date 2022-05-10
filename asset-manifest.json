@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/austinsPortfolio/static/css/main.7857d429.css",
-    "main.js": "/austinsPortfolio/static/js/main.97a346db.js",
+    "main.css": "/austinsPortfolio/static/css/main.a3f433c8.css",
+    "main.js": "/austinsPortfolio/static/js/main.013457e3.js",
     "static/media/2.png": "/austinsPortfolio/static/media/2.2c57363033b72df670af.png",
     "static/media/0.png": "/austinsPortfolio/static/media/0.7717aec9ca1ab95bfd1c.png",
     "static/media/light-bulb-glowing-wallpaper.jpeg": "/austinsPortfolio/static/media/light-bulb-glowing-wallpaper.23cf05a919c65a616f82.jpeg",
     "static/media/1.png": "/austinsPortfolio/static/media/1.4e7ee3a66f840a57492e.png",
     "index.html": "/austinsPortfolio/index.html",
-    "main.7857d429.css.map": "/austinsPortfolio/static/css/main.7857d429.css.map",
-    "main.97a346db.js.map": "/austinsPortfolio/static/js/main.97a346db.js.map"
+    "main.a3f433c8.css.map": "/austinsPortfolio/static/css/main.a3f433c8.css.map",
+    "main.013457e3.js.map": "/austinsPortfolio/static/js/main.013457e3.js.map"
   },
   "entrypoints": [
-    "static/css/main.7857d429.css",
-    "static/js/main.97a346db.js"
+    "static/css/main.a3f433c8.css",
+    "static/js/main.013457e3.js"
   ]
 }

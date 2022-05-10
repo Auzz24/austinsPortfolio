@@ -22,17 +22,17 @@ function Projects (){
         <a href="https://auzz24.github.io/CovidTravel/">
             <img src={Covid} style={{width: "15%"}} alt="screenshot of covid travel website"/>
             </a>
-            <p>This app was made for a figurative Running Club using HTML, and CSS</p>
+            <p>This application will allow you to view the COVID status of your travel destination using server side APIs. Coding languges used in the project include HTML, Tailwind, and JavaScript.</p>
             <h3>Book It!!</h3>
             <a href="https://stormy-caverns-67766.herokuapp.com/">
             <img src={Book} style={{width: "15%"}} alt="screenshot of book it website"/>
             </a>
-            <p>Our Book Rentals provides students with affordable textbooks, empowering more than a million students to study cheaper. </p>
+            <p>Our Book Rentals provides students with affordable textbooks, empowering more than a million students to study cheaper. This project was built with HTML, CSS, JavaScript, ES6, Node, Bootstrap, MySQL, jQuery, Materialize </p>
             <h3>Dr.HQ</h3>
             <a href="/">
             <img src={Dr} style={{width: "15%"}} alt="screenshot of Dr. HQ website"/>
             </a>
-            <p>Hospital Management App Project! As the name suggests, the app is designed to manage hospital tasks like booking an appointment, etc. The project technologies include Javascript, MySQL, PHP, and Bootstrap. Whereas the application’s web server is built on XAMPP. We believe that healthcare should be about you and your family. We strive to deliver safe, quality care compassionately and with absolute integrity.</p>
+            <p>The Dr.HQ team is here to make finding a doctor easy. We believe that healthcare should be about you and your family, that is why we put your health first. We strive to deliver safe, quality and compassionate care. This project was made with React, CSS, JavaScript, ES6, Node, Reactstrap, jQuery, MongoDB, GraphQL</p>
           </div>
 </div>
 </section>

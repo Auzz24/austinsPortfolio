@@ -16,23 +16,29 @@ function Early() {
           <p>
             These were created by Austin early in his coding carrer. Check it out to see how far he has come: 
           </p>
+          <p>
+          Click on the picture for the deployed application or check out the GitHub Link
+        </p>
 
           <div id="photList">
             <h3 id="underline">RunBuddy</h3>
             <a href="https://auzz24.github.io/Tiny-Tiny/">
-            <img src={Runbuddy} style={{width: "15%"}} alt="screenshot of Runbuddy website"/>
+            <img src={Runbuddy} style={{width: "40%", height:"40%"}}alt="screenshot of Runbuddy website"/>
             </a>
             <p>This app was made for a figurative Running Club using HTML, and CSS.</p>
-            <h3 id="underline">Random Password generator</h3>
+            <p id="resumeLink"> <a href="https://github.com/Auzz24/Tiny-Tiny">GITHUB LINK</a></p>
+            <h3 id="underline">Random Password Generator</h3>
             <a href="https://auzz24.github.io/random-password/">
-            <img src={Random} style={{width: "15%"}} alt="screenshot of Random password website"/>
+            <img src={Random} style={{width: "40%", height:"40%"}}alt="screenshot of Random password website"/>
             </a>
             <p>This app was made to generate a random password for a user using only HTML, CSS, and JavaScript.</p>
+            <p id="resumeLink"> <a href="https://github.com/Auzz24/random-password">GITHUB LINK</a></p>
             <h3 id="underline">Weather HQ</h3>
             <a href=" https://auzz24.github.io/WeatherHQ/">
-            <img src={Weather} style={{width: "15%"}} alt="screenshot of weather forcast website"/>
+            <img src={Weather} style={{width: "40%", height:"40%"}}alt="screenshot of weather forcast website"/>
             </a>
             <p>This app uses a 3rd party weather api to give the user current weather, a 5 day forcast, and warning when the UV index is too high.</p>
+            <p id="resumeLink"> <a href="https://github.com/Auzz24/WeatherHQ">GITHUB LINK</a></p>
             </div>
             </div>
       </section>

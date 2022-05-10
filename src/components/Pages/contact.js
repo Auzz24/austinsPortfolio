@@ -30,7 +30,6 @@ function ContactForm() {
       if (!e.target.value.length) {
         setErrorMessage(`${e.target.name} is required.`);
       } else {
-        
         setErrorMessage('');
         setFormState({...formState, [e.target.name]: e.target.value });
       }
@@ -60,7 +59,7 @@ function ContactForm() {
             <p className="error-text">{errorMessage}</p>
           </div>
         )}
-        <button data-testid="button" type="submit">Submit</button>
+        <button id="button" data-testid="button" type="submit">Submit</button>
       </form>
       </div>
 

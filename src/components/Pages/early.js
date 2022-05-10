@@ -14,7 +14,7 @@ function Early() {
             Early Work 
           </h2>
           <p>
-            These were created by Austin early in his coding carrer. Check it out to see how far he has come: 
+            These were created early in my coding carrer. Check it out to see how far I have come: 
           </p>
           <p>
           Click on the picture for the deployed application or check out the GitHub Link

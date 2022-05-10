@@ -37,7 +37,8 @@ function ContactForm() {
   };
 
   return (
-    <section id="contactForm">
+    <section id="contactBackground">
+    <div id="contactForm">
       <h1 data-testid="h1tag">Contact me</h1>
 
       <div id="wrapper">
@@ -83,6 +84,7 @@ function ContactForm() {
             
         </div>
         
+        </div>
         </div>
     </section>
   );

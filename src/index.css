@@ -86,12 +86,10 @@ img {
 
 #aboutMeDiv {
   background-image: url(./assets/Background/light-bulb-glowing-wallpaper.jpeg);
-  height: 100%;
-  background-position: center;
-  background-size:  cover;
+  background-attachment: fixed;
   background-repeat: no-repeat;
-  padding: 80px;
-  padding-bottom: 205px;
+  background-size: cover;
+  background-position: center center;
   margin: 20px;
 }
 
@@ -132,10 +130,10 @@ img {
 
 #earlyWork{
   background-image: url(./assets/Background/light-bulb-glowing-wallpaper.jpeg);
-  height: 100%;
-  background-position: center;
-  background-size:  cover;
+  background-attachment: fixed;
   background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
   margin: 20px;
 }
 
@@ -159,14 +157,15 @@ padding-bottom: 50px;
 
 #projectDiscript{ 
 background-color: rgba(0, 0, 0, .3);
+padding: 40px;
 }
 
 #project{
   background-image: url(./assets/Background/light-bulb-glowing-wallpaper.jpeg);
-  height: 100%;
-  background-position: center;
-  background-size:  cover;
+  background-attachment: fixed;
   background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
   /* padding: 20px; */
   margin: 20px;
 }
@@ -179,6 +178,14 @@ background-color: rgba(0, 0, 0, .3);
       width: 200px;
       height: 175px;
   }
+  
+#contactBackground {
+  background-image: url(./assets/Background/light-bulb-glowing-wallpaper.jpeg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
 
 #contact-form {
   display: block;

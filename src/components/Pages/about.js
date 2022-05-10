@@ -6,7 +6,7 @@ function About() {
     return(
         <section>
         <section id="aboutMeDiv">
-            <div>
+            <div id="projectDiscript">
             <h2>Welcome to Austin's Portfolio</h2>
             <img src={headShot} style={{width: "15%"}} alt="headshot"/>
             <p>

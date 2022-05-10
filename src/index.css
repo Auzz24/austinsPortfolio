@@ -39,6 +39,7 @@ nav.shift ul li a {
   position:relative;
   z-index: 1;
 }
+
 nav.shift ul li a:hover {
   color: var(--primary-color);
 }
@@ -82,6 +83,10 @@ img {
   margin-right: auto;
   width: 50%;
   border-radius: 30px;
+}
+
+#underline{
+  text-decoration: underline;
 }
 
 #aboutMeDiv {

@@ -10,7 +10,7 @@ function About() {
             <h2>Welcome to Austin's Portfolio</h2>
             <img src={headShot} style={{width: "15%"}} alt="headshot"/>
             <p>
-                Austin Miller is a full-stack web developer, that specilizes in the MERN stack.
+                Austin Miller is a full-stack web developer, with a specialization in the MERN stack.
             </p>
             <div id="proficiencies">
             <ul>
@@ -19,7 +19,7 @@ function About() {
                 <li>CSS </li>
                 <li>JavaScript</li>
                 <li>jQuery </li>
-                <li>responsive desighn </li>
+                <li>Responsive Desighn </li>
                 <li>React </li>
                 <li>Bootstrap</li>
             </ul>
@@ -37,7 +37,8 @@ function About() {
                        <section id="resume">
             <div>
                 <p id="resumeLink"> Download my Resume:<a href="https://docs.google.com/document/d/1RPMMFWWAuMLJ2uevABlFFVKmOMBAIG9m/edit?usp=sharing&ouid=108598029225481980968&rtpof=true&sd=true">HERE</a></p>
-                <p id="resumeLink"> Here in the link to this project's git hub:<a href="https://github.com/Auzz24/austinsPortfolio">GIT LINK</a></p>
+
+                <p id="resumeLink"> Here is the link to this project's GitHub:<a href="https://github.com/Auzz24/austinsPortfolio">GITHUB LINK</a></p>
 
             </div>
             </section>

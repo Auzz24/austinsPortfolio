@@ -30,6 +30,7 @@ function ContactForm() {
       if (!e.target.value.length) {
         setErrorMessage(`${e.target.name} is required.`);
       } else {
+        
         setErrorMessage('');
         setFormState({...formState, [e.target.name]: e.target.value });
       }

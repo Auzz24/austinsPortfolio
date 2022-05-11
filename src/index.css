@@ -81,7 +81,9 @@ img {
 }
 
 #underline{
-  text-decoration: underline;
+  text-decoration: underline yellow;
+  padding-top: 30px;
+  font-size: 20px;
 }
 
 #aboutMeDiv {
@@ -91,6 +93,12 @@ img {
   background-size: cover;
   background-position: center center;
   margin: 20px;
+}
+
+#aboutMeDiv h2{
+  font-size: 30px;
+  text-decoration: var(--secondary-color);
+  text-decoration: underline overline yellow;
 }
 
 #proficiencies{
@@ -137,6 +145,12 @@ img {
   margin: 20px;
 }
 
+#earlyWork h2{
+  font-size: 30px;
+  text-decoration: var(--secondary-color);
+  text-decoration: underline yellow;
+}
+
 
 #earlyWork img:hover {
   filter: blur(4px);
@@ -170,6 +184,12 @@ padding: 40px;
   margin: 20px;
 }
 
+#project h2{
+  font-size: 30px;
+  text-decoration: var(--secondary-color);
+  text-decoration: underline yellow;
+}
+
 #project img:hover {
   filter: blur(4px);
   }
@@ -186,6 +206,14 @@ padding: 40px;
   background-size: cover;
   background-position: center center;
   padding-bottom: 10px;
+  margin: 20px;
+}
+
+#contactBackground h1{
+      font-size: 30px;
+      text-decoration: var(--secondary-color);
+      text-decoration: underline yellow;
+      padding-top: 30px;
 }
 
 #contact-form {

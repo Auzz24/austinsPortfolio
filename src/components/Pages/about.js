@@ -10,7 +10,7 @@ function About() {
             <h2>Welcome to Austin's Portfolio</h2>
             <img src={headShot} style={{width: "15%"}} alt="headshot"/>
             <p>
-                Austin Miller is a full-stack web developer, with a specialization in the MERN stack.
+                Austin Miller is a full-stack web developer, with a specialization in the MERN stack and mySQL.
             </p>
             <div id="proficiencies">
             <ul>

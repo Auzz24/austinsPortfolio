@@ -38,8 +38,9 @@ function ContactForm() {
 
   return (
     <section id="contactBackground">
+      <div id="contactTint">
     <div id="contactForm">
-      <h1 data-testid="h1tag">Contact me</h1>
+      <h1 data-testid="h1tag">Contact</h1>
 
       <div id="wrapper">
 
@@ -84,6 +85,7 @@ function ContactForm() {
             
         </div>
         
+        </div>
         </div>
         </div>
     </section>

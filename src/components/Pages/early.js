@@ -17,16 +17,16 @@ function Early() {
             These were created early in my coding career. Check it out to see how far I have come: 
           </p>
           <p>
-          Click on the picture for the deployed application or check out the GitHub Link
+          Click on the picture for the deployed application or a usage video. Please check out the GitHub Link below the pictures. 
         </p>
 
           <div id="photList">
-            <h3 id="underline">RunBuddy</h3>
-            <a href="https://auzz24.github.io/Tiny-Tiny/">
-            <img src={Runbuddy} style={{width: "40%", height:"40%"}}alt="screenshot of Runbuddy website"/>
+            <h3 id="underline">Track-the-Employee</h3>
+            <a href="https://drive.google.com/file/d/1Mkdxxly-UKeSHQDbZuqZMRdh7qQXrCnm/view">
+            <img src={Runbuddy} style={{width: "40%", height:"40%"}}alt="screenshot of Track-the-Employee website"/>
             </a>
-            <p>This app was made for a figurative Running Club using HTML, and CSS.</p>
-            <p id="resumeLink"> <a href="https://github.com/Auzz24/Tiny-Tiny">GITHUB LINK</a></p>
+            <p>This app will help users manage and track their emplyees using MySQL</p>
+            <p id="resumeLink"> <a href="https://github.com/Auzz24/Track-the-Employees">GITHUB LINK</a></p>
             <h3 id="underline">Random Password Generator</h3>
             <a href="https://auzz24.github.io/random-password/">
             <img src={Random} style={{width: "40%", height:"40%"}}alt="screenshot of Random password website"/>

@@ -38,7 +38,7 @@ function About() {
             <div>
                 <p id="resumeLink"> Download my Resume:<a href="https://docs.google.com/document/d/1RPMMFWWAuMLJ2uevABlFFVKmOMBAIG9m/edit?usp=sharing&ouid=108598029225481980968&rtpof=true&sd=true">HERE</a></p>
 
-                <p id="resumeLink"> Here is the link to this project's GitHub:<a href="https://github.com/Auzz24/austinsPortfolio">GITHUB LINK</a></p>
+                {/* <p id="resumeLink"> Here is the link to this project's GitHub:<a href="https://github.com/Auzz24/austinsPortfolio">GITHUB LINK</a></p> */}
 
             </div>
             </section>
